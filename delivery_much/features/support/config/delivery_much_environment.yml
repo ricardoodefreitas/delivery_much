@@ -1,0 +1,4 @@
+---
+   file_url:
+     pt_br_url : 'http://challengeqa.staging.devmuch.io/<number>'
+     en_url:     'http://challengeqa.staging.devmuch.io/en/<number>'
